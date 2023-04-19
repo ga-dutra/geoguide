@@ -60,7 +60,7 @@ a {
   box-sizing: border-box;
 }
 body {
-
+/* background-color: ${(props) => props.theme.body}; */
 }
 
 `;
